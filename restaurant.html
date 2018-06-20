@@ -14,7 +14,7 @@
 
 <body class="inside">
   <!-- Beginning header -->
-  <header>
+  <header id="inside_nav">
     <!-- Beginning nav -->
     <nav>
       <h1>
@@ -34,20 +34,23 @@
 
   <!-- Beginning main -->
   <main id="maincontent">
-    <!-- Beginning map -->
-    <section id="map-container" aria-label="Google Map" role="Maps application">
-      <div id="map"></div>
-    </section>
-    <!-- End map -->
-    <!-- Beginning restaurant -->
-    <section id="restaurant-container">
-      <h1 id="restaurant-name"></h1>
-      <img id="restaurant-img">
-      <p id="restaurant-cuisine"></p>
-      <p id="restaurant-address"></p>
-      <table id="restaurant-hours"></table>
-    </section>
-    <!-- end restaurant -->
+
+    <div id="map_restaurant_content">
+      <!-- Beginning map -->
+      <section id="map-container" aria-label="Google Map" role="Maps application">
+        <div id="map"></div>
+      </section>
+      <!-- End map -->
+      <!-- Beginning restaurant -->
+      <section id="restaurant-container">
+        <h1 id="restaurant-name"></h1>
+        <img id="restaurant-img">
+        <p id="restaurant-cuisine"></p>
+        <p id="restaurant-address"></p>
+        <table id="restaurant-hours"></table>
+      </section>
+      <!-- end restaurant -->
+    </div>
     <!-- Beginning reviews -->
     <section id="reviews-container">
       <ul id="reviews-list"></ul>

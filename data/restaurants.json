@@ -276,6 +276,7 @@
       "neighborhood": "Manhattan",
       "photograph": "7.jpg",
       "address": "430 E 9th St, New York, NY 10009",
+      "alt": "Picture of people walking outside Superiority Burger",
       "latlng": {
         "lat": 40.727397,
         "lng": -73.983645
@@ -320,6 +321,7 @@
       "neighborhood": "Manhattan",
       "photograph": "8.jpg",
       "address": "131 Sullivan St, New York, NY 10012",
+      "alt": "Picture of the Dutch Sign",
       "latlng": {
         "lat": 40.726584,
         "lng": -74.002082
@@ -364,6 +366,7 @@
       "neighborhood": "Queens",
       "photograph": "9.jpg",
       "address": "1209 Jackson Ave, Queens, NY 11101",
+      "alt": "Picture of people eating and taking pictures at Mu Ramen",
       "latlng": {
         "lat": 40.743797,
         "lng": -73.950652
@@ -408,6 +411,7 @@
       "neighborhood": "Queens",
       "photograph": "10.jpg",
       "address": "5-48 49th Ave, Queens, NY 11101",
+      "alt": "Picture of elegent dining at Casa Enrique",
       "latlng": {
         "lat": 40.743394,
         "lng": -73.954235
